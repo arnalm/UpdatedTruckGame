@@ -29,7 +29,7 @@ header {
 
 
 .hero {
-  background-image: url("/img/backGround /b.png");
+  background-image: url("./img/backGround/b.png");
 background-size: cover;
   color: black;
   padding: 5rem;
