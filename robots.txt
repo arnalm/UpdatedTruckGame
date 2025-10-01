@@ -1,0 +1,13 @@
+User-agent: *
+allow:/lavel1
+allow:/lavel2
+allow:/lavel3
+allow:/lavel4
+allow:/lavel5
+allow:/lavel6
+allow:/lavel7
+allow:/lavel8
+allow:/pages/about-us
+allow:/pages/privacy policy.html
+allow:/pages/contact us.html
+allow:/pages/disclaimer
